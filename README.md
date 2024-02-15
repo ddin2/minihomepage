@@ -1,37 +1,16 @@
-[Up<!DOCTYPE html>
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-	<title>sns</title>
-	<style>
-		body {
-			font-family: Arial, sans-serif;
-			margin: 0;
-			padding: 0;
-		}
-		.container {
-			display: flex;
-			flex-direction: column;
-			align-items: center;
-			justify-content: center;
-			height: 100vh;
-		}
-		h1 {
-			font-size: 36px;
-			margin-bottom: 20px;
-		}
-		button {
-			padding: 10px 20px;
-			border-radius: 5px;
-			border: none;
-			cursor: pointer;
-		}
-	</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
 </head>
 <body>
-	<div class="container">
-		<h1>sns</h1>
-		<button>공유 및 리믹스</button>
-		<button>숨겨진 단어</button>
-	</div>
+    <h3>숨겨진 단어 기능</h3>
+    <li>단어장 만들기</li>
+    <li>단어장 불러오기</li>
+    <h3>공유 및 리믹스 기능</h3>
+    <li>게시물 공유하기</li>
+    <li>게시물 리믹스하기</li>
 </body>
-</html>loading 회원가입양식.HTML…]()
+</html>
